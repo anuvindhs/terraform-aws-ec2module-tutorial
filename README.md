@@ -13,6 +13,10 @@ Read on [iCTPro.co.nz](https://ictpro.co.nz/all-about-terraform-modules-create-p
 </br>
 Read on [dev.to](https://dev.to/aws-builders/all-about-terraform-modules-create-publish-your-own-modules-502b)
 
+## Terraform Module Link
+
+https://registry.terraform.io/modules/anuvindhs/ec2module-tutorial/aws/latest
+
 ## Code
 
 ```HCL
